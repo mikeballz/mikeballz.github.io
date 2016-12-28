@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Writing Items"
+date:   2016-12-27 16:48:27 -0500
+categories: General
+---
+<h2>Blog Posts</h2>
+
+[10 Things Every Designer Needs to Know When Making the Jump From PC to Mac
+][pc2mac]
+
+[The Process Behind That Five-Minute Logo][logo]
+
+[Why We’re Excited for the Forge Conference][forge]
+
+[How to Host a Hackathon][hackathon1]
+
+[A Guide to Participating in Your First Hackathon][hackathon2]
+
+[pc2mac]: https://arcweb.co/10-things-every-designer-needs-to-know-when-making-the-jump-from-pc-to-mac/
+[logo]: https://arcweb.co/the-process-behind-that-five-minute-logo/
+[forge]: https://arcweb.co/why-were-excited-for-the-forge-conference/
+[hackathon1]: https://arcweb.co/how-to-host-a-hackathon/
+[hackathon2]: https://arcweb.co/participating-in-your-first-hackathon-guide/

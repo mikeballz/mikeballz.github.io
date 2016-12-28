@@ -9,7 +9,7 @@
 title: MIKE BALCERZAK
 email: mikebalcerzak@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal portfolio and shenanigans site of Mike Balcerzak.
+  Personal site of Mike Balcerzak.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: mikebalcerzak
