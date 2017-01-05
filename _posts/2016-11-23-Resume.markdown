@@ -6,6 +6,6 @@ categories: General
 ---
 <hr>
 <br>
-[View My Resume]({{ site.url }}/downloads/MikeBalcerzak_Resume2016.pdf)
+<a href= "{{ site.url }}/downloads/MikeBalcerzak_Resume2016.pdf" target= "_blank">View My Resume</a>
 
-[View My Bio]({{ site.url }}/downloads/MikeBalcerzakBio.pdf)
+<a href= "{{ site.url }}/downloads/MikeBalcerzakBio.pdf" target= "_blank">View My Bio</a>

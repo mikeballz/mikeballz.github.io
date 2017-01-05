@@ -8,19 +8,12 @@ categories: General
 <br>
 <h2>Blog Posts</h2>
 
-[10 Things Every Designer Needs to Know When Making the Jump From PC to Mac
-][pc2mac]
+<a href="https://arcweb.co/10-things-every-designer-needs-to-know-when-making-the-jump-from-pc-to-mac/" target="_blank">10 Things Every Designer Needs to Know When Making the Jump From PC to Mac</a>
 
-[The Process Behind That Five-Minute Logo][logo]
+<a href="https://arcweb.co/the-process-behind-that-five-minute-logo/" target="_blank">The Process Behind That Five-Minute Logo
 
-[Why We’re Excited for the Forge Conference][forge]
+<a href="https://arcweb.co/why-were-excited-for-the-forge-conference/" target="_blank">Why We’re Excited for the Forge Conference
 
-[How to Host a Hackathon][hackathon1]
+<a href="https://arcweb.co/how-to-host-a-hackathon/" target="_blank">How to Host a Hackathon
 
-[A Guide to Participating in Your First Hackathon][hackathon2]
-
-[pc2mac]: https://arcweb.co/10-things-every-designer-needs-to-know-when-making-the-jump-from-pc-to-mac/
-[logo]: https://arcweb.co/the-process-behind-that-five-minute-logo/
-[forge]: https://arcweb.co/why-were-excited-for-the-forge-conference/
-[hackathon1]: https://arcweb.co/how-to-host-a-hackathon/
-[hackathon2]: https://arcweb.co/participating-in-your-first-hackathon-guide/
+<a href="https://arcweb.co/participating-in-your-first-hackathon-guide/" target="_blank">A Guide to Participating in Your First Hackathon
