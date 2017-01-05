@@ -4,6 +4,8 @@ title:  "Writing Items"
 date:   2016-12-27 16:48:27 -0500
 categories: General
 ---
+<hr>
+<br>
 <h2>Blog Posts</h2>
 
 [10 Things Every Designer Needs to Know When Making the Jump From PC to Mac

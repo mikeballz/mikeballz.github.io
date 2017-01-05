@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Resume and Bio"
+date:   2016-12-27 16:48:27 -0500
+categories: General
+---
+<hr>
+<br>
+[View My Resume]({{ site.url }}/downloads/MikeBalcerzak_Resume2016.pdf)
+
+[View My Bio]({{ site.url }}/downloads/MikeBalcerzakBio.pdf)
